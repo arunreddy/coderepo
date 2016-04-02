@@ -1,0 +1,3 @@
+[submodule "research/python/nimfa"]
+	path = research/python/nimfa
+	url = git@github.com:arunreddy/nimfa.git
