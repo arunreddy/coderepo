@@ -20,3 +20,4 @@ for domain in ["kitchen","dvd","electronics","books"]:
 
         accuracy=(count*100)/total
         print("{0}\t{1}\t{2}\t{3}\t{4}%".format(domain,sentiment,count,total,accuracy))
+        

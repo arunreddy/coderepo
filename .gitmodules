@@ -1,3 +1,6 @@
 [submodule "research/python/nimfa"]
 	path = research/python/nimfa
 	url = git@github.com:arunreddy/nimfa.git
+[submodule "research/python/pyplot-utils"]
+	path = research/python/pyplot-utils
+	url = git@github.com:arunreddy/pyplot-utils.git
