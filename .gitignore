@@ -61,3 +61,8 @@ gradle-app.setting
 gradle/wrapper/gradle-wrapper.properties
 
 target/
+
+.idea/
+__pycache__/
+*.txt
+*.tar.gz
