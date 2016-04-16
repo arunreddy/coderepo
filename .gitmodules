@@ -7,3 +7,6 @@
 [submodule "research/python/text-analytics"]
 	path = research/python/text-analytics
 	url = git@github.com:arunreddy/text-analysis.git
+[submodule "research/python/text-analysis"]
+	path = research/python/text-analysis
+	url = git@github.com:arunreddy/text-analysis.git
